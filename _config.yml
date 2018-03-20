@@ -10,11 +10,11 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Miren Gutiérrez
-  pic: 1
+  pic: mirengutierrez
   position: Directora
   social:
     - title: twitter
-      url: #
+      url: http://twitter.com/gutierrezmiren #
     - title: facebook
       url: #
     - title: stack-overflow
