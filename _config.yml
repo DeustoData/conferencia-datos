@@ -11,10 +11,10 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Miren Gutiérrez
   pic: 1
-  position: Directora del <a href="https://www.deusto.es/cs/Satellite/deusto/es/masteres/estudios-masteres/experto-en-analisis-investigacion-y-comunicacion-de-datos/programa">Programa Experto en Análisis, Investigación y Comunicación de Datos</a>
+  position: Directora
   social:
     - title: twitter
-      url: http://twitter.com/gutierrezmiren
+      url: #
     - title: facebook
       url: #
     - title: stack-overflow
@@ -35,14 +35,19 @@ people:
 social:
   - title: twitter
     url: http://twitter.com/deustodata
-  - title: linkedin
+  - title: facebook
+    url:
+  - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Castelló 76
-  - line: 28006 Madrid
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
