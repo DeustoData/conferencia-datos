@@ -46,8 +46,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: c/ Castelló 76
+  - line: 28006 Madrid
 
 # Build settings
 markdown: kramdown
