@@ -1,6 +1,6 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Adolfo Antón
+subtitle: Datalab, Medialab-Prado
 layout: default
 modal-id: 5
 date: 2014-07-14
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Responsable del DataLab del Medialab-Prado, desde donde ha dirigido la experimentación, producción y divulgación de proyectos en torno a la cultura de los datos y el fomento de los datos abiertos. Adolfo ha sido representante del Open Knowledge Foundation España, una organización dedicada a financiar y fomentar los proyectos de datos, entre otros.
 
 ---

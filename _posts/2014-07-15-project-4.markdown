@@ -1,6 +1,6 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Juanlu Sánchez
+subtitle: eldiario.es
 layout: default
 modal-id: 4
 date: 2014-07-15
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Otro conocido periodista, cofundador y subdirector de eldiario.es, está especializado en contenidos digitales, nuevos medios y fórmulas de sostenibilidad para el periodismo independiente como el modelo de socios de eldiario.es. Ha dirigido y colaborado en diversas investigaciones basadas en datos, como por ejemplo la de las tarjetas black de Bankia.
 
 ---

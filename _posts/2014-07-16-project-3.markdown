@@ -1,6 +1,6 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Juan Carlos Alonso
+subtitle: Vizzuality
 layout: default
 modal-id: 3
 date: 2014-07-16
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Es diseñador en Vizzuality, una organización ​que hace del diseño de datos un impulsor del cambio. Vizzuality ofrece aplicaciones que ayudan a la mejor comprensión de los datos a través de su visualización para comprender procesos como la deforestación, la preparación para los desastres, el flujo mundial del comercio de productos agrícolas o la acción contra el cambio climático en todo el mundo.
 
 ---

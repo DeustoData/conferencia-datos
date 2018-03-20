@@ -1,6 +1,6 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Ignacio Jovtis
+subtitle: Amnistía Internacional
 layout: default
 modal-id: 2
 date: 2014-07-17
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Responsable de Investigación y Políticas de Amnistía Internacional en España. AI usa testimonios, cartografía digital datos y fotografía satelitales para denunciar y producir evidencias de abusos de los derechos humanos en la guerra en Siria, de la apropiación militar de tierras en pueblos rohingyas y sobre la crisis de refugiados en el Mediterráneo.
 
 ---
