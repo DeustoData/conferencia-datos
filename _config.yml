@@ -10,26 +10,25 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Miren Gutiérrez
-  pic: mirengutierrez
+  pic: miren-gutierrez
   position: Directora
   social:
     - title: twitter
-      url: http://twitter.com/gutierrezmiren #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: http://twitter.com/gutierrezmiren 
 
 - name: Jorge Martín
-  pic: 2
+  pic: jorge-martin
   position: Facilitador gráfico
   social:
+    - title: instagram
+      url: https://www.instagram.com/yorsmartin/
+
+- name: Miren Berasategi
+  pic: miren-berasategi
+  position: Apoyo
+  social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+      url: http://twitter.com/mberasategi
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
