@@ -29,7 +29,7 @@ $(function () {
           $success.find('> .alert-success')
               .html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
               .append("</button>")
-              .append("<strong>Your message has been sent. </strong>")
+              .append("<strong>Hemos recibido tu inscripción. ¡Muchas gracias, nos vemos pronto! </strong>")
               .append('</div>');
 
           //clear all fields
@@ -41,7 +41,7 @@ $(function () {
           $success.find('> .alert-success')
               .html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
               .append("</button>")
-              .append("<strong>Your message has been sent. </strong>")
+              .append("<strong>Hemos recibido tu inscripción. ¡Muchas gracias, nos vemos pronto! </strong>")
               .append('</div>');
 
           //clear all fields
