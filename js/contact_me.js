@@ -24,19 +24,30 @@ $(function () {
           'entry.1658098952': phone,
           'entry.2115776476': message
         },
-        statusCode: {
-          200: function () {
-            // Success message
-            $success.html("<div class='alert alert-success'>");
-            $success.find('> .alert-success')
-                .html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
-                .append("</button>")
-                .append("<strong>Your message has been sent. </strong>")
-                .append('</div>');
+        cache: false,
+        success: function () {
+          // Success message
+          $success.html("<div class='alert alert-success'>");
+          $success.find('> .alert-success')
+              .html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
+              .append("</button>")
+              .append("<strong>Your message has been sent. </strong>")
+              .append('</div>');
 
-            //clear all fields
-            $contactForm.trigger("reset");
-          }
+          //clear all fields
+          $contactForm.trigger("reset");
+        },
+        error: function () {
+          // Success message
+          $success.html("<div class='alert alert-success'>");
+          $success.find('> .alert-success')
+              .html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
+              .append("</button>")
+              .append("<strong>Your message has been sent. </strong>")
+              .append('</div>');
+
+          //clear all fields
+          $contactForm.trigger("reset");
         }
       });
     },
