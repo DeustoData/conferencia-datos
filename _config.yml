@@ -11,21 +11,21 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Miren Gutiérrez
   pic: miren-gutierrez
-  position: Directora
+  position: Directora del <a href="https://www.deusto.es/cs/Satellite/deusto/es/masteres/estudios-masteres/experto-en-analisis-investigacion-y-comunicacion-de-datos/programa">Programa Experto en Análisis, Investigación y Comunicación de Datos</a>
   social:
     - title: twitter
       url: http://twitter.com/gutierrezmiren 
 
 - name: Jorge Martín
   pic: jorge-martin
-  position: Facilitador gráfico
+  position: <a href="http://www.jorgemartin.org/">Ilustrador</a> y facilitador gráfico
   social:
     - title: instagram
       url: https://www.instagram.com/yorsmartin/
 
 - name: Miren Berasategi
   pic: miren-berasategi
-  position: Apoyo
+  position: Investigadora del <a href="http://infocom.deusto.es">equipo de Comunicación</a> en la Universidad de Deusto
   social:
     - title: twitter
       url: http://twitter.com/mberasategi
