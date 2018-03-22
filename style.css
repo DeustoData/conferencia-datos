@@ -5,10 +5,10 @@ layout: style
 
 a, a:hover, a:focus, a:active { color:#115fc4; }
 
-#intro-lead-in a, #intro-lead-in a:hover, #intro-lead-in a:focus, #intro-lead-in a:active { color:#fec503; }
+.intro-lead-in a, .intro-lead-in a:hover, .intro-lead-in a:focus, .intro-lead-in a:active { color:#fec503; }
 
 @media (min-width: 768px) {
-	#intro-lead-in { font-size:30px; }
+	.intro-lead-in { font-size:30px; }
 }
 
 #contact h3.section-subheading { color:#ccc; }
