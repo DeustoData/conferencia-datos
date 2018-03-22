@@ -11,8 +11,6 @@ $(function () {
       var $contactForm = $('#contactForm');
       var name = $("input#name").val();
       var email = $("input#email").val();
-      var phone = $("input#phone").val();
-      var message = $("textarea#message").val();
       var $success = $('#success');
       $.ajax({
         type: "POST",
@@ -20,9 +18,7 @@ $(function () {
         dataType: "json",
         data: {
           'entry.1398314030': name,
-          'entry.1922591094': email,
-          'entry.1658098952': phone,
-          'entry.2115776476': message
+          'entry.1922591094': email
         },
         cache: false,
         success: function () {
