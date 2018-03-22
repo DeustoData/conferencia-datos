@@ -10,6 +10,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Otro conocido periodista, cofundador y subdirector de eldiario.es, está especializado en contenidos digitales, nuevos medios y fórmulas de sostenibilidad para el periodismo independiente como el modelo de socios de eldiario.es. Ha dirigido y colaborado en diversas investigaciones basadas en datos, como por ejemplo la de las tarjetas black de Bankia.
-
+description: Otro conocido periodista, cofundador y subdirector de <strong>eldiario.es</strong>, está especializado en contenidos digitales, nuevos medios y fórmulas de sostenibilidad para el periodismo independiente como el modelo de socios de eldiario.es. Ha dirigido y colaborado en diversas investigaciones basadas en datos, como por ejemplo la de las tarjetas black de Bankia.
 ---
