@@ -1,0 +1,3 @@
+[submodule "js/jquery-scrolldepth"]
+	path = js/jquery-scrolldepth
+	url = https://github.com/robflaherty/jquery-scrolldepth.git
