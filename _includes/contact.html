@@ -1,41 +1,71 @@
 <section id="contact">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Inscripción</h2>
-                    <h3 class="section-subheading">La entrada es libre hasta completar el aforo, pero tu inscripción nos ayudará a tener <br />una idea aproximada del número de asistentes para mejorar la organización.</h3>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <form name="sentMessage" id="contactForm" novalidate>
-                        <div class="row">
-                            <div class="col-md-4">
-                                <div class="control-group form-group">
-                                    <input type="text" class="form-control" placeholder="Tu nombre *" id="name" required data-validation-required-message="Por favor, escribe tu nombre completo">
-                                    <p class="help-block text-danger"></p>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="control-group form-group">
-                                    <input type="email" class="form-control" placeholder="Tu Email *" id="email" required data-validation-required-message="Por favor, escribe tu email">
-                                    <p class="help-block text-danger"></p>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="control-group form-group">
-                                    <input type="text" class="form-control" placeholder="Tu Empresa *" id="empresa" required data-validation-required-message="Por favor, indica de qué empresa vienes">
-                                    <p class="help-block text-danger"></p>
-                                </div>
-                            </div>
-                            <div class="clearfix"></div>
-                            <div class="col-lg-12 text-center">
-                                <div id="success"></div>
-                                <button type="submit" class="btn btn-xl">Inscribirme</button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Inscripción</h2>
+                <h3 class="section-subheading">La entrada es libre hasta completar el aforo, pero tu inscripción nos ayudará a tener <br/>una idea aproximada del número de asistentes para mejorar la organización.</h3>
             </div>
         </div>
-    </section>
+        <div class="row">
+            <div class="col-lg-12">
+                <form name="sentMessage" id="contactForm" novalidate>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="control-group form-group">
+                                <input type="text" class="form-control" placeholder="Tu nombre *" id="name" required data-validation-required-message="Por favor, escribe tu nombre completo">
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="control-group form-group">
+                                <input type="email" class="form-control" placeholder="Tu Email *" id="email" required data-validation-required-message="Por favor, escribe tu email">
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="control-group form-group">
+                                <input type="text" class="form-control" placeholder="Tu Empresa *" id="empresa" required data-validation-required-message="Por favor, indica de qué empresa vienes">
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row" style="padding: 0 15px;">
+                        <div class="panel panel-default">
+                            <div class="panel-body">
+                                <div class="col-md-6">
+                                    <div class="control-group">
+                                        <label class="checkbox">
+                                            <input type="checkbox" id="tos" name="tos" required="" data-validation-required-message="Por favor, acepta los términos legales" aria-invalid="true"> Acepto el TOS
+                                        </label>
+                                        <p class="help-block text-danger"></p>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="control-group">
+                                        <div class="radio">
+                                            <label>
+                                                <input type="radio" name="radioGrp1" id="asisto" value="Asisto" checked="" aria-invalid="false">
+                                                Asisto
+                                            </label>
+                                        </div>
+                                        <div class="radio">
+                                            <label>
+                                                <input type="radio" name="radioGrp1" id="soloQuieroInfo" value="Solo quiero info" aria-invalid="false">
+                                                Solo quiero info
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <div class="col-lg-12 text-center">
+                        <div id="success"></div>
+                        <button type="submit" class="btn btn-xl">Inscribirme</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>

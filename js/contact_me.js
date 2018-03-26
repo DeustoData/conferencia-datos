@@ -13,15 +13,19 @@ $(function () {
       var email = $("input#email").val();
       var empresa = $("input#empresa").val();
       var $success = $('#success');
+      var data = {
+        'entry.1398314030': name,
+        'entry.1922591094': email,
+        'entry.1656166482': empresa,
+        'entry.1761345160': $("input#asisto").is(":checked") ? 'Asisto' : 'Solo quiero info'
+      };
+      if ($("input#tos").val() === "on")
+        data['entry.719448328'] = 'Acepto';
       $.ajax({
         type: "POST",
         url: "//docs.google.com/forms/d/e/1FAIpQLSdpg5lzboiuxs-82Zm53f_45g2sbgQZBOIpGwNGoF3VR5pr1Q/formResponse",
         dataType: "json",
-        data: {
-          'entry.1398314030': name,
-          'entry.1922591094': email,
-          'entry.1656166482': empresa
-        },
+        data: data,
         cache: false,
         success: function () {
           // Success message
