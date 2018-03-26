@@ -13,4 +13,4 @@ a, a:hover, a:focus, a:active { color:#115fc4; }
 
 #contact h3.section-subheading { color:#ccc; }
 
-.timeline-image a { color:#fff !important; }
+.timeline > li .timeline-image h4 a,.timeline > li .timeline-image h4 a:hover, .timeline > li .timeline-image h4 a:focus, .timeline > li .timeline-image h4 a:active { color:#fff !important; }
