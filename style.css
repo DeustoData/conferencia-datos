@@ -12,3 +12,5 @@ a, a:hover, a:focus, a:active { color:#115fc4; }
 }
 
 #contact h3.section-subheading { color:#ccc; }
+
+.timeline-image a { color:#fff !important; }
