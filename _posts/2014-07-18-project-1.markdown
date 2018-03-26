@@ -6,10 +6,8 @@ modal-id: 1
 date: 2014-07-18
 img: marcabra.jpg
 thumbnail: marcabra-thumb.jpg
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+alt: Mar Cabra, periodista
+twitter: http://twitter.com/cabralens
 description: Es una conocida periodista de investigación y especialista en análisis de datos que ha estado al frente de la Unidad de Datos e Investigación del Consorcio Internacional de Periodistas de Investigación, ganador del premio Pulitzer de 2017 con la investigación conocida como <strong>“Los papeles de Panamá”</strong>.
 
 ---

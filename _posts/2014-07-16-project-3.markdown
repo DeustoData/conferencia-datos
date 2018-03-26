@@ -6,10 +6,8 @@ modal-id: 3
 date: 2014-07-16
 img: juancarlosalonso.jpg
 thumbnail: juancarlosalonso-thumb.jpg
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+alt: Juan Carlos Alonso, de Vizzuality
+linkedin: https://www.linkedin.com/in/juancarlosalonsolena/
 description: Es diseñador en <strong>Vizzuality</strong>, una organización ​que hace del diseño de datos un impulsor del cambio. Vizzuality ofrece aplicaciones que ayudan a la mejor comprensión de los datos a través de su visualización para comprender procesos como la deforestación, la preparación para los desastres, el flujo mundial del comercio de productos agrícolas o la acción contra el cambio climático en todo el mundo.
 
 ---

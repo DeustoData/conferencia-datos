@@ -6,9 +6,7 @@ modal-id: 4
 date: 2014-07-15
 img: juanlusanchez.jpg
 thumbnail: juanlusanchez-thumb.jpg
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+alt: Juanlu Sánchez, de eldiario.es
+twitter: https://twitter.com/juanlusanchez
 description: Otro conocido periodista, cofundador y subdirector de <strong>eldiario.es</strong>, está especializado en contenidos digitales, nuevos medios y fórmulas de sostenibilidad para el periodismo independiente como el modelo de socios de eldiario.es. Ha dirigido y colaborado en diversas investigaciones basadas en datos, como por ejemplo la de las tarjetas black de Bankia.
 ---

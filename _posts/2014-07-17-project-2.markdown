@@ -6,10 +6,8 @@ modal-id: 2
 date: 2014-07-17
 img: ignaciojovtis.jpg
 thumbnail: ignaciojovtis-thumb.jpg
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+alt: Ignacio Jovtis, de Amnistía Internacional
+twitter: 
 description: Responsable de Investigación y Políticas de <strong>Amnistía Internacional</strong> en España. AI usa testimonios, cartografía digital datos y fotografía satelitales para denunciar y producir evidencias de abusos de los derechos humanos en la guerra en Siria, de la apropiación militar de tierras en pueblos rohingyas y sobre la crisis de refugiados en el Mediterráneo.
 
 ---
