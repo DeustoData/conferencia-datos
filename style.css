@@ -11,9 +11,10 @@ a, a:hover, a:focus, a:active { color:#115fc4; }
 	.intro-lead-in { font-size:30px; }
 }
 
-#contact h3.section-subheading { color:#ccc; }
 
 .timeline > li .timeline-image h4 a,.timeline > li .timeline-image h4 a:hover, .timeline > li .timeline-image h4 a:focus, .timeline > li .timeline-image h4 a:active { color:#fff !important; }
 .timeline > li .timeline-panel { margin-top: 40px; }
 
-.asisto p, .asisto div.radio { display: inline-block; padding-right:1em; }
+#contact h3.section-subheading { color:#ccc; }
+.asisto p, .asisto div.radio, .asisto div.radio label { display: inline-block; padding-right:1em; }
+#contact .fila2 .text-muted { color:#ccc; }
