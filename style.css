@@ -16,5 +16,6 @@ a, a:hover, a:focus, a:active { color:#115fc4; }
 .timeline > li .timeline-panel { margin-top: 40px; }
 
 #contact h3.section-subheading { color:#ccc; }
+.asisto { text-align: right; }
 .asisto p, .asisto div.radio, .asisto div.radio label { display: inline-block; padding-right:1em; }
 #contact .fila2 .text-muted { color:#ccc; }
