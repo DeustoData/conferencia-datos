@@ -34,5 +34,6 @@ p {font-family: "Akrobat-light", sans serif; font-size: 1em;}
 
 .blue {color:#005ea8;}
 .fina {font-family: "Akrobat-light", sans serif; font-weight:lighter;}
-.fina-blue a {color:#005ea8; font-family: "Akrobat-light", sans serif; font-weight:lighter;}
+.fina-blue {color:#005ea8; font-family: "Akrobat-light", sans serif; font-weight:lighter;}
+.fina-blue a {color:#005ea8; }
 
