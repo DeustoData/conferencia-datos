@@ -19,4 +19,4 @@ a, a:hover, a:focus, a:active { color:#115fc4; }
 .asisto { text-align: right; }
 .asisto p, .asisto div.radio, .asisto div.radio label { display: inline-block; padding-right:1em; }
 #contact .fila2 .text-muted { color:#ccc; }
-#contact a.portfolio-link , #contact a.portfolio-link:hover, #contact a.portfolio-link:focus, #contact a.portfolio-link:active { color:#ccc; }
+#contact a.portfolio-link , #contact a.portfolio-link:hover, #contact a.portfolio-link:focus, #contact a.portfolio-link:active { color:#ccc; text-decoration:underline;}
