@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {font-family: ”Akrobat-bold”; src: url(http://www.deusto-publicaciones.es/pruebas/invitacion_larga/fonts/Akrobat-Bold.otf) format(“opentype”);}
+@font-face {font-family: ”Akrobat-semibold”; src: url(http://www.deusto-publicaciones.es/pruebas/invitacion_larga/fonts/Akrobat-SemiBold.otf) format(“opentype”);}
+@font-face {font-family: ”Akrobat-light”; src: url(http://www.deusto-publicaciones.es/pruebas/invitacion_larga/fonts/Akrobat-Light.otf) format(“opentype”);}
+
+
+
+body {
+	margin: 0;
+	padding: 0;
+}
+#contenedor{
+	width: 600px; 
+	background-image:url("fondo3.jpg");
+	background-repeat:no-repeat;
+	}
+
+#texto {
+	padding: 100px 200px 0 55px;
+	font-size:.7em; 
+	}	
+#inscribete {
+	padding: 10px 0 20px 55px;
+	}
+	
+h1 {font-family: "Akrobat-bold", sans serif; font-size:1.7em;} 
+
+h2 {font-family: "Akrobat-semibold", sans serif; font-size:1.18em; }
+
+p {font-family: "Akrobat-light", sans serif; font-size: 1em;}
+
+
+.blue {color:#005ea8;}
+.fina {font-family: "Akrobat-light", sans serif; font-weight:lighter;}
+.fina-blue {color:#005ea8; font-family: "Akrobat-light", sans serif; font-weight:lighter;}
+.fina-blue a {color:#005ea8; }
+
