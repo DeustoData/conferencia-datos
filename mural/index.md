@@ -1,0 +1,5 @@
+---
+title: Mural
+---
+
+Sample page.
