@@ -1,4 +1,4 @@
-url: https://mberasategi.github.io
+url: https://deustodatacom.github.io
 baseurl: /conferencia-datos/
 
 # Site settings
@@ -37,7 +37,7 @@ social:
   - title: linkedin
     url:
   - title: github
-    url: http://github.com/mberasategi/conferencia-datos
+    url: http://github.com/deustodatacom/conferencia-datos
 
 # Postal address (add as many lines as necessary)
 address:
